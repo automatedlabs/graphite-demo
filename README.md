@@ -23,6 +23,12 @@ $ cd graphite-demo
 $ vagrant up
 ````
 
+### See Graphite in action!
+Navigate to http://localhost:18080 and you should see the Graphite front-end
+
+### How do I push data to StatsD/Graphite?
+TODO
+
 ## Further Reading
 1. [Etsy blog post on StatsD][EtsyStatsD]
 
