@@ -23,8 +23,12 @@ $ cd graphite-demo
 $ vagrant up
 ````
 
+## Further Reading
+1. [Etsy blog post on StatsD][EtsyStatsD]
+
 [Vagrant]: http://vagrantup.com/
 [Chef]: http://www.opscode.com/
 [Graphite]: http://graphite.wikidot.com/
 [StatsD]: https://github.com/etsy/statsd/
 [Virtual Box]: https://www.virtualbox.org/wiki/Downloads
+[EtsyStatsD]: http://codeascraft.etsy.com/2011/02/15/measure-anything-measure-everything/
