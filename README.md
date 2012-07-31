@@ -19,6 +19,7 @@ $ git clone https://github.com/automatedlabs/graphite-demo.git
 ### Start the VM and Install Graphite and StatsD
 
 ````
+$ cd graphite-demo
 $ vagrant up
 ````
 
